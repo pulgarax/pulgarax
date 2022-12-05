@@ -1,4 +1,4 @@
-### Hola!! 👋
+### Hey!!
 
 -  I'm a media artist and stage performer
 -  I compose electronic experimental music and play Instruments
