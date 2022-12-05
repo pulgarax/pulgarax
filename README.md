@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hola!! 👋
 
 <!--
 **pulgarax/pulgarax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-CELEBRATING CYBERARTS
 
 -  I'm a media artist and stage performer
 -  I compose electronic experimental music and play Instruments
